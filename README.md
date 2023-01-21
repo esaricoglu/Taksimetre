@@ -1,2 +1,2 @@
 # Taksimetre
-[Patika.dev](www.patika.dev) [Java 101](https://app.patika.dev/courses/java101) eğitimi kapsamında oluşturulan Taksimetre Programı
+[Patika.dev](https://www.patika.dev) [Java 101](https://app.patika.dev/courses/java101) eğitimi kapsamında oluşturulan Taksimetre Programı
